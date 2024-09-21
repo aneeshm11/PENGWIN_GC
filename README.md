@@ -9,7 +9,11 @@ Trained on 4x A5000 for 8 hours to achieve IOUs of 98-99 , 1-5 ASSD/HD95 on test
 
 2) Train 3 separate models, one for each view, perform max pooling or other fusion methods to each of the final voxel of the volume by comparing voxels of 3 volumes produced by 3 models. Lesser training time can achieve decent results. 
 
+
 Key takeaways- Method1 needs more train time and very fast infernece time, Method2 is the opposite of it. 
+             - For both methods , all 2d slices were padded to shape (512x512) during forward pass and unpadded after infernece. 
+             - Reshaping can also be done, but it does not give much difference in the results produced, padding showed more accurate shapes during inference. 
+
 
 # DATA:
 
