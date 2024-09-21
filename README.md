@@ -24,7 +24,7 @@ weights.pth file in the resources directory, else comment out the necessary line
 ./test_run.sh
 ```
 
-the above line can be skipped if you run this below function
+the above line can be skipped if you dont want to test , just run this one below line
 ```
 docker build . \
  --platform=linux/amd64 \
