@@ -1,0 +1,17 @@
+For a 3D CT scan volume, the three axes are typically referred to as:
+
+Axial (or transverse)
+Coronal (or frontal)
+Sagittal
+
+Given the shape (100, 200, 300), these dimensions usually correspond to:
+
+100: Number of slices in the axial plane
+200: Number of rows in the coronal plane
+300: Number of columns in the sagittal plane
+
+The orientations are typically:
+
+Axial: Top to bottom view (looking from above)
+Coronal: Front to back view
+Sagittal: Side to side view (left to right)
