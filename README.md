@@ -47,13 +47,10 @@ docker build . \
 
 ### CT SCANS - TASK 1
 
-<div style="display: flex; justify-content: space-around; margin-bottom: 20px;">
-  <img src="https://github.com/user-attachments/assets/51cc4752-5ee7-4510-a527-bf31e085c5ea" alt="CT Scan 1" width="45%">
-  <img src="https://github.com/user-attachments/assets/8a9ced47-fc22-4ef3-9c64-f6c56a7da4c7" alt="CT Scan 2" width="45%">
-</div>
+![CT Scan 1](https://github.com/user-attachments/assets/51cc4752-5ee7-4510-a527-bf31e085c5ea)
+
+![CT Scan 2](https://github.com/user-attachments/assets/8a9ced47-fc22-4ef3-9c64-f6c56a7da4c7)
 
 ### BINARY ENCODED MULTI-LABEL XRAY SCANS - TASK 2
 
-<div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/5a202d83-ff61-4d40-b199-65fd205b81a3" alt="X-ray Scan" width="70%">
-</div>
+![X-ray Scan](https://github.com/user-attachments/assets/5a202d83-ff61-4d40-b199-65fd205b81a3)
