@@ -42,3 +42,4 @@ docker build . \
 ```
 ./save.sh
 ```
+![train_vis_epoch27_iter1500](https://github.com/user-attachments/assets/5a202d83-ff61-4d40-b199-65fd205b81a3)
